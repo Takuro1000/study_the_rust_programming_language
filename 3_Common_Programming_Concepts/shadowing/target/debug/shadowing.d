@@ -1,0 +1,1 @@
+/Users/takuro/RUST/the_rust_programming_language/3_Common_Programming_Concepts/shadowing/target/debug/shadowing: /Users/takuro/RUST/the_rust_programming_language/3_Common_Programming_Concepts/shadowing/src/main.rs
