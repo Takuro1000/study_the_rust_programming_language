@@ -1,0 +1,1 @@
+/Users/takuro/RUST/the_rust_programming_language/references_and_borrowing/target/debug/references_and_borrowing: /Users/takuro/RUST/the_rust_programming_language/references_and_borrowing/src/main.rs
